@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "New Investigator Award",
+    "description": "This grant supports investigator-led research across the UK, encouraging innovative and impactful studies in various scientific disciplines, fostering early-career researchers and advancing foundational knowledge in critical areas.",
+    "location": "United Kingdom",
+    "deadline": "12 months",
+    "cheque_size": "$75k",
+    "type": "Grant",
+    "matching_score": 100
+  },
+  {
+    "id": 2,
+    "title": "Biomining Cohort",
+    "description": "Focused on developing microbial systems for efficient resource recovery and recycling, this grant promotes sustainability by leveraging biotechnology for mining and waste material reutilization.",
+    "location": "Switzerland",
+    "deadline": "2 months",
+    "cheque_size": "$25k",
+    "type": "Grant",
+    "matching_score": 85
+  },
+  {
+    "id": 3,
+    "title": "Research and Innovation Grant",
+    "description": "Providing substantial funding for pioneering projects in technology and sustainability, this grant aims to drive transformative innovations that address pressing global challenges and opportunities.",
+    "location": "Belgium",
+    "deadline": "6 months",
+    "cheque_size": "$750k",
+    "type": "Grant",
+    "matching_score": 55
+  },
+  {
+    "id": 4,
+    "title": "Biosynthesis of Complex Biopharmaceuticals",
+    "description": "This program funds the development of microbial cell factories designed for the biosynthesis of advanced monoclonal antibodies, driving breakthroughs in therapeutic biopharmaceutical production.",
+    "location": "United Kingdom",
+    "deadline": "3 months",
+    "cheque_size": "$150k",
+    "type": "Grant",
+    "matching_score": 34
+  },
+  {
+    "id": 5,
+    "title": "Environmental Bioremediation",
+    "description": "Supports projects focused on environmental cleanup efforts through innovative biotechnology applications, addressing contamination and fostering sustainable practices for a healthier planet.",
+    "location": "United Kingdom",
+    "deadline": "8 months",
+    "cheque_size": "$300k",
+    "type": "Grant",
+    "matching_score": 12
+  },
+  {
+    "id": 6,
+    "title": "Programmable Biological Circuits",
+    "description": "This grant funds cutting-edge research into designing synthetic gene circuits that enable precise cellular control for medical, agricultural, and industrial applications.",
+    "location": "United Kingdom",
+    "deadline": "4 months",
+    "cheque_size": "$500k",
+    "type": "Grant",
+    "matching_score": 6
+  },
+  {
+    "id": 7,
+    "title": "Marine Bio-Innovation Fund",
+    "description": "Providing support for research into marine biodiversity, conservation, and ocean sustainability, this fund encourages innovative approaches to protect and sustainably manage marine ecosystems.",
+    "location": "Belgium",
+    "deadline": "5 months",
+    "cheque_size": "$400k",
+    "type": "Grant",
+    "matching_score": 72
+  },
+  {
+    "id": 8,
+    "title": "Climate-Resilient Agriculture Program",
+    "description": "This program supports projects developing innovative agricultural solutions to combat climate change, ensuring food security and environmental resilience for future generations.",
+    "location": "Belgium",
+    "deadline": "10 months",
+    "cheque_size": "$600k",
+    "type": "Grant",
+    "matching_score": 90
+  },
+  {
+    "id": 9,
+    "title": "Renewable Energy Innovation Grant",
+    "description": "Focused on renewable energy projects like solar, wind, and biofuels, this grant advances clean energy solutions for a sustainable and low-carbon future.",
+    "location": "Belgium",
+    "deadline": "7 months",
+    "cheque_size": "$900k",
+    "type": "Grant",
+    "matching_score": 78
+  },
+  {
+    "id": 10,
+    "title": "Advanced AI in Healthcare",
+    "description": "Funding cutting-edge research into AI-driven solutions to enhance healthcare delivery, diagnostics, and treatment outcomes for transformative medical advancements.",
+    "location": "Belgium",
+    "deadline": "9 months",
+    "cheque_size": "$950k",
+    "type": "Grant",
+    "matching_score": 95
+  },
+  {
+    "id": 11,
+    "title": "AgriTech Innovation Challenge",
+    "description": "Supporting the development of advanced technologies for modern agriculture, this grant addresses global food challenges with innovative, scalable solutions.",
+    "location": "Switzerland",
+    "deadline": "11 months",
+    "cheque_size": "$340k",
+    "type": "Grant",
+    "matching_score": 88
+  }
+]
